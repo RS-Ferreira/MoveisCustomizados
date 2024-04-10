@@ -36,7 +36,7 @@ Segue uma prévia do resultado final do projeto elaborado:
 ## Desafio
 A partir desta iniciativa, foi lançado um desafio para recriar o design utilizando os mesmos princípios, 
 mas com uma temática distinta. Para mais informações sobre o desafio, acesse  
-[recriando-layout](https://rs-ferreira.github.io/Flutuar.com/).
+[recriando-layout](https://rs-ferreira.github.io/Flutuar.com/)
 
 
 ## Contato
