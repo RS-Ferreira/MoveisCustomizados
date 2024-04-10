@@ -43,4 +43,4 @@ mas com uma temática distinta. Para mais informações sobre o desafio, acesse
 aso haja alguma dúvida ou deseje entrar em contato, sinta-se à vontade para me enviar uma mensagem pelo
 LinkedIn (https://www.linkedin.com/in/ronaldosf).
 
-<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+<p align="right"><a href="#readme-top">voltar ao topo</a></p>
